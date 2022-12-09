@@ -1,0 +1,24 @@
+{
+    "binds" : [
+        {
+            "name": "left",
+            "main": 65,
+            "alt": 37
+        },
+        {
+            "name": "down",
+            "main": 83,
+            "alt": 40
+        },
+        {
+            "name": "up",
+            "main": 87,
+            "alt": 38
+        },
+        {
+            "name": "right",
+            "main": 68,
+            "alt": 39
+        }
+    ]
+}
